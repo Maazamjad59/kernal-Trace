@@ -1,0 +1,5 @@
+{
+  "name": "Kernal Trace",
+  "description": "An interactive application that not only showcases ML models but also educates users about how they work. Each model includes explanations, feature importance visualizations, and the ability to see how changes in input affect predictions.",
+  "requestFramePermissions": []
+}
